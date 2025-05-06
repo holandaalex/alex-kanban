@@ -105,7 +105,7 @@ src/
 
 Alexsander Barreto - [@alex_holanda](https://twitter.com/alex_holanda) - contato@alexholanda.com.br
 
-Link do projeto: [https://github.com/seu-usuario/alex-kanban](https://github.com/holandaalex/alex-kanban)
+Link do projeto: [https://github.com/holandaalex/alex-kanban](https://github.com/holandaalex/alex-kanban)
 
 
 <!--Alexsander Barreto - AlexHolanda.com.br-->
