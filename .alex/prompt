@@ -1,0 +1,5 @@
+Por padrão, este modelo suporta sintaxe JSX com classes CSS do Tailwind, hooks do React e Lucide React para ícones. Não instale outros pacotes para temas de interface, ícones, etc., a menos que seja absolutamente necessário ou que eu solicite.
+
+Use ícones do lucide-react para logotipos.
+
+<!--Alexsander Barreto - AlexHolanda.com.br-->
