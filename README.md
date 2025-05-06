@@ -31,7 +31,7 @@ Um aplicativo de quadro "Alex Kanban" interativo desenvolvido com React e TypeSc
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/alex-kanban.git
+git clone https://github.com/holandaalex/alex-kanban.git
 ```
 
 2. Entre na pasta do projeto:
@@ -77,7 +77,7 @@ npm run dev
 
 ```
 src/
-├── components/     # Componentes React
+├── components/    # Componentes React
 │   ├── modais/    # Componentes de modal
 │   └── ...
 ├── contexts/      # Contextos React
