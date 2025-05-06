@@ -103,7 +103,7 @@ src/
 
 ## 📞 Contato
 
-Seu Nome - [@alex_holanda](https://twitter.com/alex_holanda) - contato@alexholanda.com.br
+Alexsander Barreto - [@alex_holanda](https://twitter.com/alex_holanda) - contato@alexholanda.com.br
 
 Link do projeto: [https://github.com/seu-usuario/alex-kanban](https://github.com/holandaalex/alex-kanban)
 
