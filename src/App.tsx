@@ -1,4 +1,3 @@
-import React from 'react';
 import { KanbanProvider } from './contexts/KanbanContext';
 import Quadro from './components/Quadro';
 import Cabecalho from './components/Cabecalho';
